@@ -3,6 +3,12 @@
 **Welcome to my GitHub!**  
 I'm a **Computer Science Student** with a passion for **web development**. I specialize in building full-stack web applications with a focus on **React.js**, **Express.js**, and **Redux**. I'm currently working on enhancing my knowledge to land a great placement and contribute to impactful projects.
 
+## 📊 GitHub Stats
+
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish2944&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+
+![Anish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anish2944&theme=radical&hide_border=true)
+
 ## 🔭 Current Projects
 
 - **Video Verse**: A YouTube-like video-sharing platform with features such as channel subscriptions, playlists, and more.  
