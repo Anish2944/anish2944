@@ -12,11 +12,11 @@ I'm a **Computer Science Student** with a passion for **web development**. I spe
   **Live Demo**: [BlogApp](https://blog-app-psi-olive.vercel.app/)
 ## 💼 Skills & Tools
 
-- **Frontend**: React.js, Next.js, Redux Toolkit, RTK Query, Tailwind CSS, DaisyUI
-- **Backend**: Node.js, Express, Appwrite, REST APIs
+- **Frontend**: React.js, Redux Toolkit, RTK Query, Tailwind CSS, DaisyUI
+- **Backend**: Node.js, Express.js, Appwrite, REST APIs
 - **DevOps & Deployment**: Vercel, GitHub
 - **Databases**: MongoDB
-- **Other**: VSCode, Insomnia, Git
+- **Other**: VSCode, Postman, Git
 
 ## 🌱 Currently Learning
 
