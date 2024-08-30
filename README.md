@@ -9,7 +9,7 @@ I'm a **Computer Science Student** with a passion for **web development**. I spe
   **Live Demo**: [Video Verse](https://video-verse-gamma.vercel.app)
   
 - **Blog Application**: A full-stack blog platform deployed on Vercel, built using React and Appwrite for backend services.
-
+  **Live Demo**: [BlogApp](https://blog-app-psi-olive.vercel.app/)
 ## 💼 Skills & Tools
 
 - **Frontend**: React.js, Next.js, Redux Toolkit, RTK Query, Tailwind CSS, DaisyUI
@@ -26,8 +26,8 @@ I'm a **Computer Science Student** with a passion for **web development**. I spe
 
 ## 📫 How to Reach Me
 
-- **Email**: anish2944@example.com
-- **LinkedIn**: [Anish on LinkedIn](https://www.linkedin.com/in/anish)
+- **Email**: anishkh0276@gmail.com
+- **LinkedIn**: [Anish on LinkedIn](https://www.linkedin.com/in/anish-kushwaha-45857b227/)
 - **GitHub**: [Anish2944](https://github.com/Anish2944)
 
 ## 👨‍💻 Open to Work
