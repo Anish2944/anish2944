@@ -9,6 +9,8 @@ I'm a **Computer Science Student** with a passion for **web development**. I spe
 
 ![Anish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anish2944&theme=radical&hide_border=true)
 
+![anish2944's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2944&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 🔭 Current Projects
 
 - **Video Verse**: A YouTube-like video-sharing platform with features such as channel subscriptions, playlists, and more.  
