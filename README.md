@@ -5,11 +5,10 @@ I'm a **Computer Science Student** with a passion for **web development**. I spe
 
 ## 📊 GitHub Stats
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish2944&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish2944&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)  ![anish2944's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2944&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ![Anish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anish2944&theme=radical&hide_border=true)
 
-![anish2944's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish2944&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🔭 Current Projects
 
