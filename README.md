@@ -35,7 +35,7 @@ I'm a **Computer Science Student** with a passion for **web development**. I spe
 ## 📫 How to Reach Me
 
 - **Email**: anishkh0276@gmail.com
-- **LinkedIn**: [Anish on LinkedIn](https://www.linkedin.com/in/anish-kushwaha-45857b227/)
+- **LinkedIn**: [Anish's LinkedIn](https://www.linkedin.com/in/anish-kushwaha-45857b227/)
 - **GitHub**: [Anish2944](https://github.com/Anish2944)
 
 ## 👨‍💻 Open to Work
