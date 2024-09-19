@@ -21,16 +21,16 @@ I'm a **Computer Science Student** with a passion for **web development**. I spe
 
 - **Frontend**: React.js, Redux Toolkit, RTK Query, Tailwind CSS, DaisyUI
 - **Backend**: Node.js, Express.js, Appwrite, REST APIs
-- **DevOps & Deployment**: Vercel, GitHub
+- **DevOps & Deployment**: Vercel, Render, GitHub
 - **Databases**: MongoDB
 - **Other**: VSCode, Postman, Git
 
 ## 🌱 Currently Learning
 
 - **Advanced Express.js**
-- **Optimistic Updates with RTK Query**
+- **Optimistic Updates with RTK Query and React**
 - **Focusing on UI/UX**
-- **Filter and auto Pagination**
+- **And Practicing DSA**
 
 ## 📫 How to Reach Me
 
