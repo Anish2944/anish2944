@@ -65,11 +65,12 @@
 
 ## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anish2944&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish2944&layout=compact&hide_border=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anish2944&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish2944&layout=compact&hide_border=true&theme=radical" height="170"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish2944&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish2944&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
