@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/anish-kushwaha-45857b227/">
     <img src="https://img.shields.io/badge/LinkedIn-Anish%20Kushwaha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://care-mate-bice.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-CareMate-success?style=for-the-badge&logo=vercel" alt="CareMate Live"/>
+  <a href="https://anish-kushwaha-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Portfolio-success?style=for-the-badge&logo=vercel" alt="CareMate Live"/>
   </a>
 </p>
 
