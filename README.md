@@ -69,8 +69,8 @@
 ## 📊 GitHub Metrics
 <div align="center">
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish2944&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish2944&layout=compact&hide_border=true&theme=radical)  
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish2944&show_icons=true&hide_border=true&theme=radical&v=1)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish2944&layout=compact&hide_border=true&theme=radical&v=1)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anish2944&theme=radical&hide_border=true)
 
 </div>
